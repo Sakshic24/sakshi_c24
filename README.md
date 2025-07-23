@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sakshi Choudhary
+# 👋 Hi, I'm Sakshi Chaurasiya
 
 I'm a passionate **Full Stack Web Developer** with hands-on experience in creating responsive, scalable, and interactive applications. My journey involves exploring the full spectrum of web technologies — from crafting intuitive user interfaces to designing efficient backend systems.
 
